@@ -1,0 +1,14 @@
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\bin\Debug\net8.0\cadastro_de_cliente.exe
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\bin\Debug\net8.0\cadastro_de_cliente.deps.json
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\bin\Debug\net8.0\cadastro_de_cliente.runtimeconfig.json
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\bin\Debug\net8.0\cadastro_de_cliente.dll
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\bin\Debug\net8.0\cadastro_de_cliente.pdb
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.AssemblyInfoInputs.cache
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.AssemblyInfo.cs
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.csproj.CoreCompileInputs.cache
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.dll
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\refint\cadastro_de_cliente.dll
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.pdb
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\cadastro_de_cliente.genruntimeconfig.cache
+C:\Users\stell\OneDrive - Sociedade Goiana de Cultura\Documentos\cadastroDeCliente\cadastro_de_cliente\obj\Debug\net8.0\ref\cadastro_de_cliente.dll
